@@ -4,8 +4,6 @@ Algorithm study for coding test!
 사용 언어: Python 3
 
 1주차
-
-Day 1
 1. 타겟 넘버 (https://programmers.co.kr/learn/courses/30/lessons/43165) - DFS, BFS
 2. 네트워크 (https://programmers.co.kr/learn/courses/30/lessons/43162) - DFS, BFS
 3. 단어 변환 (https://programmers.co.kr/learn/courses/30/lessons/43163) - DFS, BFS
@@ -18,3 +16,7 @@ Day 1
 10. 디스크 컨트롤러 (https://programmers.co.kr/learn/courses/30/lessons/42627) - 힙
 11. 이중우선순위큐 (https://programmers.co.kr/learn/courses/30/lessons/42628) - 힙
 12. K번째 수 (https://programmers.co.kr/learn/courses/30/lessons/42748) - 정렬
+
+2주차
+1. H-Index (https://programmers.co.kr/learn/courses/30/lessons/42747) - 정렬
+2. 모의고사 (https://programmers.co.kr/learn/courses/30/lessons/42747) - 부르트 포스
