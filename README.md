@@ -20,3 +20,7 @@ Algorithm study for coding test!
 2주차
 1. H-Index (https://programmers.co.kr/learn/courses/30/lessons/42747) - 정렬
 2. 모의고사 (https://programmers.co.kr/learn/courses/30/lessons/42747) - 부르트 포스
+3. 가장 큰 수 (https://programmers.co.kr/learn/courses/30/lessons/42746) - 정렬 ★
+4. 소수 찾기 (https://programmers.co.kr/learn/courses/30/lessons/42839)  - 부르트 포스 ★
+5. 카펫 (https://programmers.co.kr/learn/courses/30/lessons/42842) - 부르트 포스
+6. 체육복 (https://programmers.co.kr/learn/courses/30/lessons/42862) - 그리디
