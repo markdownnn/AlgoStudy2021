@@ -26,3 +26,8 @@ Algorithm study for coding test!
 6. 체육복 (https://programmers.co.kr/learn/courses/30/lessons/42862) - 그리디 (1/26)
 7. 정수 삼각형 (https://programmers.co.kr/learn/courses/30/lessons/43105) - DP
 8. 큰 수 만들기 (https://programmers.co.kr/learn/courses/30/lessons/42883) - 그리디 (1/27) 시간 단축이 어려움
+
+3주차
+1. 멀쩡한 사각형 (https://programmers.co.kr/learn/courses/30/lessons/62048) - 2/4
+
+4주차
