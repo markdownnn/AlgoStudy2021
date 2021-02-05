@@ -29,5 +29,7 @@ Algorithm study for coding test!
 
 3주차
 1. 멀쩡한 사각형 (https://programmers.co.kr/learn/courses/30/lessons/62048) - 2/4
+2. 스킬트리 (https://programmers.co.kr/learn/courses/30/lessons/49993) - Summer/Winter Coding(~2018)
+3. 문자열 압축 (https://programmers.co.kr/learn/courses/30/lessons/60057) - 2020 KAKAO BLIND RECRUITMENT
 
 4주차
