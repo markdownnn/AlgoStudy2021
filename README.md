@@ -33,3 +33,5 @@ Algorithm study for coding test!
 3. 문자열 압축 (https://programmers.co.kr/learn/courses/30/lessons/60057) - 2020 KAKAO BLIND RECRUITMENT
 
 4주차
+1. 나는야 포켓몬 마스터 이다솜 (https://www.acmicpc.net/problem/1620) - 자료구조, 딕셔너리
+2. 리모컨 (https://www.acmicpc.net/problem/1107) - 부르트 포스
