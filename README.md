@@ -35,3 +35,10 @@ Algorithm study for coding test!
 4주차
 1. 나는야 포켓몬 마스터 이다솜 (https://www.acmicpc.net/problem/1620) - 자료구조, 딕셔너리
 2. 리모컨 (https://www.acmicpc.net/problem/1107) - 부르트 포스
+
+5주차
+1. 캐슬 디펜스 (https://www.acmicpc.net/problem/17135) - 구현, 부르트 포스
+2. 보물 (https://www.acmicpc.net/problem/1026) - 정렬
+3. 가르침 (https://www.acmicpc.net/problem/1062) - 부르트 포스
+4. 연속합 (https://www.acmicpc.net/problem/1912) - DP
+5. 소수 구하기 (https://www.acmicpc.net/problem/1929) - 소수 
